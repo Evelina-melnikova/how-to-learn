@@ -15,7 +15,7 @@
   margin-bottom: 100px;
 }
 
-.logo__place__header {
+.logo_place_header {
   min-width:228px;
   min-height:32px;
   top: 30px;
@@ -213,7 +213,7 @@
   background-position: bottom left;
 }
 
-.feynman_title {
+.feynman__title {
   width: 60%;
   margin-left: auto;
   margin-right: auto;
@@ -225,7 +225,7 @@
   top: 100px;
 }
 
-.feynman_subtitle {
+.feynman__subtitle {
   padding-top:70px;
   margin-left: auto;
   margin-right: auto;
@@ -237,7 +237,7 @@
   margin: 0 auto;
 }
 
-.feynman_link {
+.feynman__link {
   line-height: 51px;
   font-size: 36px;
   font-weight: normal;
