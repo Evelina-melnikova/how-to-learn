@@ -1,8 +1,9 @@
-.table__heading_theme_dark {/*add index.css*/
+.table__heading_theme_dark {
     line-height: 1.15;
     font-size: 24px;
     font-weight: 600;
     position: relative;
     margin-bottom: 20px;
     margin-top: 0;
+    color: #f2f2f2;
   }

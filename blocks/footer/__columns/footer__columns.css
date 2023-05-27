@@ -1,10 +1,9 @@
-/*add index.css*/
 .footer__columns {
     width: 90%;
-    margin-left: auto;
-    margin-right: auto;
     display: flex;
-    flex-direction: row;
     justify-content: space-between;
+    padding: 60px 0 40px 0;
+    position: relative;
+    margin: 0 auto;
   }
   

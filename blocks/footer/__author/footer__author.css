@@ -1,11 +1,8 @@
-/*add index.css*/
 .footer__author {
-    display: flex;
-    margin-top: 18px;
-    margin-bottom: 18px;
-    left: auto;
-    right: auto;
-    line-height: 25px;
-    font-size: 18px;
-    font-weight: normal;
-  }
+  line-height: 25px;
+  font-size: 18px;
+  font-weight: normal;
+  display: flex;
+  margin: 0;
+  padding:18px 0;
+ }

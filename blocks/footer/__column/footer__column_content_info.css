@@ -1,4 +1,4 @@
-/*add index.css*/
 .footer__column_content_info {
     flex-direction: column;
+    display: flex;
   }

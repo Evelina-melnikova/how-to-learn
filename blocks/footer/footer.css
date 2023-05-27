@@ -1,11 +1,10 @@
-/*add index.css*/
 .footer {
     min-height: 350px;
     background-color: #1f1f1f;
     color: #f2f2f2;
-    position: relative;
-    box-sizing: border-box;
-    padding-top: 60px;
-    padding-bottom: 40px;
     display: flex;
+    justify-content: space-around;
+    margin: 0;
+    box-sizing: border-box;
+    position: relative;
   }
