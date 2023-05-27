@@ -1,0 +1,15 @@
+@import url(../blocks/two-columns/__brief/two-columns__brief.css);
+/*add index.css*/
+.two-columns__brief {
+    color: #2f80ed;
+    list-style-type: none;
+    line-height: 1.2;
+    font-size: 18px;
+    font-weight: normal;
+    padding: 0;
+    width: 175px;
+    margin-right: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+  

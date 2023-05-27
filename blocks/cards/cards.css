@@ -1,0 +1,11 @@
+@import url(../blocks/cards/cards.css);
+/*add index.css*/
+.cards {
+    width: 920px;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+  }

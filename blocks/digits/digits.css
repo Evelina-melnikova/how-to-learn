@@ -1,0 +1,7 @@
+@import url(../blocks/digits/digits.css);
+/*add index.css*/
+.digits {
+  margin: 0;
+  box-sizing: border-box;
+  margin-bottom: 100px;
+}

@@ -1,0 +1,8 @@
+@import url(../blocks/oakley/oakley.css);
+/*add index.css*/
+.oakley {
+    background-color: #f2f2f2;
+    align-self: center;
+    padding-top: 160px;
+    padding-bottom: 100px;
+  }

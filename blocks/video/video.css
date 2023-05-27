@@ -1,0 +1,7 @@
+@import url(../blocks/video/video.css);
+/*add index.css*/
+.video {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }

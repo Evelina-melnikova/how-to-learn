@@ -1,0 +1,13 @@
+@import url(../blocks/table/__cell/table__cell.css);
+/*add index.css*/
+.table__cell {
+    display: flex;
+    text-align: left;
+    flex-direction: column;
+    list-style-type: none;
+    box-sizing: border-box;
+    width: 250px;
+    padding-left: 0;
+    margin-top: 60px;
+    margin-bottom: 0;
+  }

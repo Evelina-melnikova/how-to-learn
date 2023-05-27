@@ -1,0 +1,6 @@
+@import url(../blocks/description/description.css);
+/*add index.css*/
+.description {
+    display: flex;
+    justify-content: center;
+  }

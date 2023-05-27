@@ -1,0 +1,8 @@
+@import url(../blocks/kaufman/kaufman.css);
+/*add index.css*/
+.kaufman {
+    overflow: hidden;
+    color: #f2f2f2;
+    position: relative;
+    background-color: #1f1f1f;
+  }

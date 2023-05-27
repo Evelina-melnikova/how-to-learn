@@ -1,0 +1,11 @@
+@import url(../blocks/table/__text/_theme/table__text_theme_dark.css);
+/*add index.css*/
+.table__text_theme_dark {
+    padding: 0;
+    line-height: 1.2;
+    font-size: 18px;
+    font-weight: normal;
+    margin-bottom: 0;
+    margin-top: 0;
+    z-index: 2;
+  }

@@ -1,0 +1,14 @@
+@import url(../blocks/two-columns/__paragraph/two-columns__paragraph.css);
+/*add index.css*/
+.two-columns__paragraph {
+    line-height: 34px;
+    font-size: 24px;
+    font-weight: normal;
+    list-style-type: none;
+    margin-top: 0;
+    margin-bottom: 30px;
+    margin-right: auto;
+  }
+  .two-columns__paragraph:last-of-type {
+    margin-bottom: 0px;
+  }

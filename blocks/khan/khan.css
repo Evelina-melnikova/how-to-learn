@@ -1,0 +1,7 @@
+@import url(../blocks/khan/khan.css);
+/*add index.css*/
+.khan {
+    margin: auto;
+    padding-top: 105px;
+    background-color: #f2f2f2;
+  }

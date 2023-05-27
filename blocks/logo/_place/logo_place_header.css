@@ -1,0 +1,9 @@
+@import url(../blocks/logo/_place/logo_place_header.css);
+/*add index.css*/
+.logo_place_header {
+    top: 30px;
+    left: 64px;
+    position: absolute;
+    z-index: 1;
+  }
+  

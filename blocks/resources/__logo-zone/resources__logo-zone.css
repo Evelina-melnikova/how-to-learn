@@ -1,0 +1,8 @@
+@import url(../blocks/resources/__logo-zone/resources__logo-zone.css);
+/*add index.css*/
+.resources__logo-zone {
+    margin: auto;
+    margin-top: 80px;
+    width: 1110px;
+    justify-content: space-between;
+  }

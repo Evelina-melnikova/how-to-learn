@@ -1,0 +1,14 @@
+@import url(../blocks/khan/__buy-link/khan__buy-link.css);
+/*add index.css*/
+.khan__buy-link {
+    text-decoration: none;
+    color: #2f80ed;
+    line-height: 42px;
+    font-size: 30px;
+    font-weight: normal;
+  }
+  .khan__buy-link:hover {
+    transition: 0.5s;
+    opacity: 0.3;
+  }
+  

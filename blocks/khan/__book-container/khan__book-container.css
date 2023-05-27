@@ -1,0 +1,6 @@
+@import url(../blocks/khan/__book-container/khan__book-container.css);
+/*add index.css*/
+.khan__book-container {
+    display: flex;
+    height: 608px;
+  }

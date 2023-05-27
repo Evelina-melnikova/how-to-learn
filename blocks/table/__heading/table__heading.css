@@ -1,0 +1,9 @@
+@import url(../blocks/table/__heading/table__heading.css);
+/*add index.css*/
+.table__heading {
+    margin: 0;
+    list-style: none;
+    line-height: 1.15;
+    font-size: 24px;
+    font-weight: 600;
+  }

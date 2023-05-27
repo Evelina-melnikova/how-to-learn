@@ -1,0 +1,11 @@
+@import url(../blocks/footer/__columns/footer__columns.css);
+/*add index.css*/
+.footer__columns {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  

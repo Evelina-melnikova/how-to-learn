@@ -1,0 +1,10 @@
+@import url(../blocks/two-columns/two-columns.css);
+/*add index.css*/
+.two-columns {
+    justify-content: space-between;
+    padding: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+    display: flex;
+    width: 80%;
+  }

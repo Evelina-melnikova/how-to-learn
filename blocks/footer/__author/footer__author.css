@@ -1,0 +1,12 @@
+@import url(../blocks/footer/__author/footer__author.css);
+/*add index.css*/
+.footer__author {
+    display: flex;
+    margin-top: 18px;
+    margin-bottom: 18px;
+    left: auto;
+    right: auto;
+    line-height: 25px;
+    font-size: 18px;
+    font-weight: normal;
+  }

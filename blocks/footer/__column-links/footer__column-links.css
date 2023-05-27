@@ -1,0 +1,8 @@
+@import url(../blocks/footer/__column-links/footer__column-links.css);
+/*add index.css*/
+.footer__column-links {
+    justify-content: space-between;
+    line-height: 30px;
+    font-size: 18px;
+    font-weight: normal;
+  }

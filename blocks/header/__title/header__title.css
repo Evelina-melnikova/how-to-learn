@@ -1,0 +1,12 @@
+@import url(../blocks/header/__title/header__title.css);
+/*add index.css*/
+.header__title {
+    margin: 0;
+    margin-left: 64px;
+    max-width: 730px;
+    line-height: 96px;
+    font-size: 102px;
+    font-weight: 600;
+    align-self: center;
+    z-index: 1;
+  }

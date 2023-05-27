@@ -1,0 +1,9 @@
+@import url(../blocks/footer/__social-icon/footer__social-icon.css);
+/*add index.css*/
+.footer__social-icon {
+    margin-top: 8px;
+    width: 16px;
+    height: 16px;
+    margin-right: 10px;
+    color: #f2f2f2;
+  }

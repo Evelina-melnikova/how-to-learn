@@ -1,0 +1,10 @@
+@import url(../blocks/__description/cards__description.css);
+/*add index.css*/
+.cards__description {
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 0;
+    line-height: 23px;
+    font-size: 18px;
+    font-weight: normal;
+  }
