@@ -1,4 +1,3 @@
-@import url(../blocks/footer/__column-link/footer__column-link.css);
 /*add index.css*/
 .footer__column-link {
     flex-direction: row;
