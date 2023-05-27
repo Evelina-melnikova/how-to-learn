@@ -1,14 +1,5 @@
 @import url(../blocks/header/__square-pic/.header__square-pic.css);
 /*add index.css*/
-@keyframes rotation {
-  from {
-    transform: rotate(0deg);
-  }
-
-  to {
-    transform: rotate(360deg);
-  }
-}
 .header__square-pic {
     top: 64px;
     max-height: 568px;
@@ -16,8 +7,6 @@
     right: 0;
     bottom: 0px;
     background-color: #2f80ed;
-    position: absolute;
-    animation: rotation 20s backwards linear infinite;
-  
+    position: absolute;  
   }
  

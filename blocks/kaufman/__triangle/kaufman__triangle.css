@@ -1,14 +1,7 @@
 @import url(../blocks/kaufman/__triangle/kaufman__triangle.css);
 /*add index.css*/
-@keyframes rotation {
-  from {
-    transform: rotate(0deg);
-  }
 
-  to {
-    transform: rotate(360deg);
-  }
-}
+
 .kaufman__triangle {
     position: absolute;
     background-image: url(../../../images/kaufman-triangle.svg);
@@ -18,7 +11,5 @@
     top: 0;
     right: -210px;
     background-size: contain;
-    z-index: 1;
-    animation: rotation 20s backwards linear infinite;
-  
+    z-index: 1;  
   }
